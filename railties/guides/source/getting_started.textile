@@ -1,11 +1,11 @@
-h2. Iniziare ad usare RailsGetting Started with Rails
+h2. Come iniziare ad usare RailsGetting Started with Rails
 
-This guide covers getting up and running with Ruby on Rails. After reading it, you should be familiar with:
+Questa guida mostra come muovere i primi passi con Ruby on RailsThis guide covers getting up and running with Ruby on Rails. Dopo averla letta, questi argomenti dovrebbero esservi familiariAfter reading it, you should be familiar with:
 
-* Installing Rails, creating a new Rails application, and connecting your application to a database
-* The general layout of a Rails application
-* The basic principles of MVC (Model, View Controller) and RESTful design
-* How to quickly generate the starting pieces of a Rails application.
+* Installazione di Rails, creazione di una nuova applicazione Rails, e collegamento dell'applicazione ad un databaseInstalling Rails, creating a new Rails application, and connecting your application to a database
+* La struttura delle cartelle di un progetto RailsThe general layout of a Rails application
+* I principi di base dell'architettura MVC (Modello, Vista e Controller) e di RESTfulThe basic principles of MVC (Model, View Controller) and RESTful design
+* Come generare con rapidità i primi mattoni di un'applicazione RailsHow to quickly generate the starting pieces of a Rails application.
 
 endprologue.
 
